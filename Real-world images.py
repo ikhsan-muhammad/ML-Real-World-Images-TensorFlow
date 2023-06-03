@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Week 4: Handling Complex Images - Happy or Sad Dataset
-# 
-# In this assignment you will be using the happy or sad dataset, which contains 80 images of emoji-like faces, 40 happy and 40 sad.
-# 
-# Create a convolutional neural network that trains to 99.9% accuracy on these images,  which cancels training upon hitting this training accuracy threshold.
-
-# In[1]:
-
-
 import matplotlib.pyplot as plt
 import tensorflow as tf
 import numpy as np
